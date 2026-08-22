@@ -30,7 +30,9 @@ and payment status.
 
 ## 📁 Project Files
 
-- `Insurance_Analytics_Dashboard.twbx` – Tableau packaged workbook containing the complete dashboard.
+- ## 📊 Dashboard Preview
+
+![Insurance Analytics Dashboard](dashboard.png) – Tableau packaged workbook containing the complete dashboard.
 
 ## 🎯 Skills Demonstrated
 
