@@ -43,7 +43,7 @@ and payment status.
 
 - ## 📊 Dashboard Preview
 
-![Insurance Analytics Dashboard](dashboard.png) – Tableau packaged workbook containing the complete dashboard.
+![Insurance Analytics Dashboard](https://github.com/sanjaybalan3294/Insurance-Analytics-Tableau/blob/1c5a01117f4424d55fb4aa71215da80df3ba0be1/DASHBOARD%20.png) – Tableau packaged workbook containing the complete dashboard.
 
 ## 🎯 Skills Demonstrated
 
