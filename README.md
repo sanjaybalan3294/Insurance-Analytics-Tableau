@@ -27,6 +27,17 @@ and payment status.
 - Track premium trends.
 - Analyze claims and payment status.
 - Generate business insights through interactive dashboards.
+- 
+- ## 🔍 Key Insights
+
+- Analyzed **5,000 insurance policies** across **3,148 customers**.
+- The **60+ age group** had the highest policy count with **1,807 policies**.
+- **Health** was the most common policy type with **1,316 policies**.
+- **Property** had the highest number of policies expiring in 2026 with **134 policies**.
+- The highest annual premium was recorded in **2022 at ₹5,62,429.24**.
+- Claims included **1,074 Approved**, **1,027 Pending**, and **998 Failed** claims.
+- Failed payments (**1,978**) were slightly higher than successful payments (**1,952**).
+- The total claim amount analyzed was **₹251,378,846 (₹251.38 million)**.
 
 ## 📁 Project Files
 
